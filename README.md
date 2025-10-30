@@ -228,15 +228,15 @@ cd ../bin
 
 ## 📊 项目统计
 
-![GitHub stars](https://img.shields.io/github/stars/your-org/codecanvas?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-org/codecanvas?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-org/codecanvas)
-![GitHub license](https://img.shields.io/github/license/your-org/codecanvas)
-![Build Status](https://img.shields.io/github/actions/workflow/status/your-org/codecanvas/ci.yml)
+![GitHub stars](https://img.shields.io/github/stars/mitsuhafe/newcodecanvas?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mitsuhafe/newcodecanvas?style=social)
+![GitHub issues](https://img.shields.io/github/issues/mitsuhafe/newcodecanvas)
+![GitHub license](https://img.shields.io/github/license/mitsuhafe/newcodecanvas)
+![Build Status](https://img.shields.io/github/actions/workflow/status/mitsuhafe/newcodecanvas/ci.yml)
 
 ## 🌟 Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-org/codecanvas&type=Date)](https://star-history.com/#your-org/codecanvas&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mitsuhafe/newcodecanvas&type=Date)](https://star-history.com/#mitsuhafe/newcodecanvas&Date)
 
 ## 👥 团队成员
 
@@ -274,15 +274,15 @@ in the Software without restriction...
 
 ## 📞 联系我们
 
-- **Email**：codecanvas@example.com
-- **GitHub Issues**：[提交问题](https://github.com/your-org/codecanvas/issues)
-- **讨论区**：[GitHub Discussions](https://github.com/your-org/codecanvas/discussions)
+- **Email**：mitsuhafe@gmail.com
+- **GitHub Issues**：[提交问题](https://github.com/mitsuhafe/newcodecanvas/issues)
+- **讨论区**：[GitHub Discussions](https://github.com/mitsuhafe/newcodecanvas/discussions)
 
 ## ⭐ 支持我们
 
 如果你觉得这个项目有帮助，请给我们一个 Star ⭐️
 
-[![Star This Project](https://img.shields.io/github/stars/your-org/codecanvas?style=social)](https://github.com/your-org/codecanvas)
+[![Star This Project](https://img.shields.io/github/stars/mitsuhafe/newcodecanvas?style=social)](https://github.com/mitsuhafe/newcodecanvas)
 
 ---
 
@@ -290,7 +290,7 @@ in the Software without restriction...
 
 **用 ❤️ 打造的桌面美化工具**
 
-[官网](https://codecanvas.example.com) · [文档](./docs/) · [下载](https://github.com/your-org/codecanvas/releases) · [反馈](https://github.com/your-org/codecanvas/issues)
+[官网](https://codecanvas.example.com) · [文档](./docs/) · [下载](https://github.com/mitsuhafe/newcodecanvas/releases) · [反馈](https://github.com/mitsuhafe/newcodecanvas/issues)
 
 </div>
 
