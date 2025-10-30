@@ -1,0 +1,52 @@
+# Build directories
+build/
+bin/
+out/
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Resources
+resources/web/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# vcpkg
+vcpkg_installed/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# WebView2
+backend/libs/WebView2/
+
+# Database
+*.db
+*.db-journal
+
